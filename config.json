@@ -1,0 +1,13 @@
+{
+  "config": {
+    "colors": {
+      "N": "rgb(234, 34, 134)",
+      "L": "rgb(183, 216, 9)",
+      "B": "rgb(192, 62, 29)"
+    },
+    "stationLines": {
+      "strokeType": "0,0",
+      "strokeWidth": "1px"
+    }
+  }
+}
